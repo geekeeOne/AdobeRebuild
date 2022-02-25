@@ -1,0 +1,16 @@
+logging in, Navigation, Admin Panel
+
+
+Customers
+Create New Customer
+View Customer Information
+Updating Customer Information
+
+
+
+Rental
+creating a Rental
+	customer
+
+
+, updating, printing, emailing, viewing old deleting 

@@ -1,0 +1,92 @@
+
+/* Colors
+lightest - #DDEEF8
+
+light - #C5E0F5
+
+mid - #5C83A0
+
+dark - #047OA1
+
+darkest - #041F32
+
+danger - #FF0000
+
+warning - #FF0000
+
+ */
+html {
+	font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+	font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
+	background-color: #041F32;
+}
+
+body {
+	width: 90%;
+	margin: 0 auto;
+	
+	background-color: #c5e0f5;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+.navbar {
+	background-color: #A5C9FC;
+
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px 0;    
+	color: #00539F;
+	text-shadow: 3px 3px 4px black;
+}
+
+p, li {
+	font-size: 16px;    
+	line-height: 2;
+	letter-spacing: 1px;
+	color: #047OA1;
+}
+
+
+img {
+	display: block;
+	margin: 0 auto;
+	width: 170px;
+	height:140px;
+}
+
+.jumbotron {
+		
+		background-color: #0478a1;
+}
+
+.img-left {
+	margin-left: 0;
+}
+
+.thisOne {
+	color: #E5EFEF;
+}
+
+.page-title {
+	font-size: 80px;
+	font-weight: bold;
+	color: #DDEEF8;
+	text-shadow: 3px 3px 4px black;
+}
+
+.dropdown-item {
+	font-size: 20px;
+}
+
+#navbarDropdownMenuLink {
+	font-size: 20px;
+}
+
+#list-title {
+	font-size: 32px;
+	color: #041F32;
+}
